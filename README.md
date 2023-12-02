@@ -1,15 +1,17 @@
 ### Hi there 👋
 
-<!--
-**goTtheFuego/gotTheFuego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 🦔你好！我是Kafu 🦔
-- 🔭 我在 积水潭师专 学习计算机
+- 🔭 我是一个在普通大学学习计算机的普通学生
 - 🤔 我正在学习 System, RL...
 - 💬 Ask me about Anything !
-- 📫 欢迎通过以下方式联系我: thisissollab@gmail.com
+- 📫 欢迎通过以下方式联系我: [Email me](mailto:thisissollab@gmail.com)
 - 😄 Pronouns: They/them
--->
+
+这是我正在进行的项目：
+- [Project 1](https://github.com/yourusername/...)
+- [Project 2](https://github.com/yourusername/...)
+
+欢迎访问我的个人网站：[https://...](https://...)
 
 ![Kafu's GitHub stats](https://github-readme-stats.vercel.app/api?username=gotTheFuego&show_icons=true&theme=radical)
 
