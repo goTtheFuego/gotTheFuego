@@ -8,10 +8,10 @@
 - 😄 Pronouns: They/them
 
 这是我正在进行的项目：
-- [Project 1](https://github.com/yourusername/...)
-- [Project 2](https://github.com/yourusername/...)
+- [Project 1]()
+- [Project 2]()
 
-欢迎访问我的个人网站：[https://...](https://...)
+欢迎访问我的个人网站：[]()
 
 ![Kafu's GitHub stats](https://github-readme-stats.vercel.app/api?username=gotTheFuego&show_icons=true&theme=radical)
 
