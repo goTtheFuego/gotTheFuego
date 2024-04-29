@@ -1,10 +1,9 @@
-hi, i'm [gtf](), 
+hi, i'm [gtf](), a third year student
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](thisissollab@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
 
@@ -17,22 +16,14 @@ hi, i'm [gtf](),
 <!--START_SECTION:waka-->
 
 ```txt
-HTML         2 hrs 22 mins   ███████████████▒░░░░░░░░░   61.65 %
-JavaScript   45 mins         █████░░░░░░░░░░░░░░░░░░░░   19.61 %
+C++          2 hrs 22 mins   ███████████████▒░░░░░░░░░   61.65 %
+Python       45 mins         █████░░░░░░░░░░░░░░░░░░░░   19.61 %
 TypeScript   35 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.34 %
 Bash         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
-
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  8,004 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
 
 
 📈 my github stats
