@@ -37,7 +37,7 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=goTtheFuego&show_icons=true&theme=gotham%22%20alt=%22goTtheFuego" />
 
 
 
